@@ -45,7 +45,7 @@ public class SnakeAndLadder extends Application {
         Dice.setTranslateY(butonLine-10);
         Dice.setTranslateX(320);
 
-        Image img = new Image("D:\\Projects\\Acciojob\\Snake And Ladder\\src\\main\\img.png");
+        Image img = new Image("D:\\Projects\\Acciojob\\SnakeAndLadder\\src\\main\\img.png");
         ImageView board = new ImageView();
         board.setImage(img);
         board.setFitHeight(height*tileSize);
